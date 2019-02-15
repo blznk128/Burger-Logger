@@ -1,7 +1,9 @@
-This one gave me a lot of issues. I'm going to have to study a lot more on using databases and sequelize. I tried making this 
-from scratch but after the days kept passing by and I would get close but more and more issues would happen. So I decided
-to just alter some code on the cats activity to fit my needs. My confidence kind of took a hit but I will keep trying to figure
-this out.
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
+Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
+Your app will store every burger in a database, whether devoured or not.
+
+Tech used: NPM, Node.js, express, handle-bars, MySql, javascript, css, html.
 
 portfolio https://blznk128.github.io/newportfolio.html
 heroku https://radiant-castle-33104.herokuapp.com/
